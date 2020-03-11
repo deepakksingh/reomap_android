@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ReOMap</string>
+    <string name="empty_list_msg">Click on + button to add a new reminder</string>
 </resources>
