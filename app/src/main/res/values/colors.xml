@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="reoPurple">#FF673AB7</color>
+    <color name="reoPurpleDark">#6129B9</color>
+    <color name="reoBlack">#2d4059</color>
+    <color name="reoRed">#ea5455</color>
+    <color name="reoOrange">#f07b3f</color>
+    <color name="reoYellow">#ffd460</color>
+</resources>
